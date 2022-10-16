@@ -7,6 +7,7 @@ public class DEMO_GIT
 		System.out.println("HELLO GIT");
 	}
 		public void meghna()
+		{
 	
 		System.out.println("I am MEGHNA");	
 	}
