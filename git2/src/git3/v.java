@@ -19,17 +19,12 @@ public class v
 			public void meghna()
 			{
 		System.out.println("MMMMM");
-				System.out.println("I am MEGHNA");	
+				System.out.println("I am MEGHNA");
+				
+			System.out.println("Pooja made changes");	
 	 
 		}
 			
-
-			public void meghna1()
-			{
-		System.out.println("MMMMM");
-				System.out.println("I am MEGHNA");	
-	 
-		}
 		
 
 	}
