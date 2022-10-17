@@ -22,6 +22,14 @@ public class v
 				System.out.println("I am MEGHNA");	
 	 
 		}
+			
+
+			public void meghna1()
+			{
+		System.out.println("MMMMM");
+				System.out.println("I am MEGHNA");	
+	 
+		}
 		
 
 	}
