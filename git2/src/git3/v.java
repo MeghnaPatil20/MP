@@ -22,10 +22,7 @@ public class v
 				System.out.println("I am MEGHNA");	
 	 
 		}
-		public void pp()
-		{
-			System.out.println("PPPPPP");
-		}
+		
 
 	}
 
