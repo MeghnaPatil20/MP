@@ -8,9 +8,9 @@ public class v
 		System.out.println("onkar");
 		}
 		
-			public void m1()
+			public void branch()
 			{
-			System.out.println("HELLO GIT");	
+			System.out.println("HELLO Branch");	
 			}
 
 			public void meghna()
