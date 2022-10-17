@@ -11,5 +11,9 @@ public class DEMO_GIT
 	
 		System.out.println("I am MEGHNA");	
 	}
+	public void m1()
+	{
+		System.out.println("hii");
+	}
 
 }
