@@ -2,13 +2,10 @@ package git3;
 
 public class v
 {
-	
-
-	
-	
-		public static void main(String[] args) 
+	public static void main(String[] args) 
 		{
 			System.out.println("HELLO GIT");
+		System.out.println("onkar");
 		}
 		
 			public void m1()
